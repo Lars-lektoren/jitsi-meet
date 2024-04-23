@@ -399,6 +399,9 @@
         "title": "Livestream",
         "unavailableTitle": "Livestreaming er ikke tilgængelig"
     },
+     "lobby": {
+        "joinTitle": "Deltag i møde",
+    },
     "localRecording": {
         "clientState": {
             "off": "Slået fra",
